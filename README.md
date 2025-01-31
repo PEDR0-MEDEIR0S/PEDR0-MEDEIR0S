@@ -37,3 +37,5 @@
   <a href = "mailto:contato@pedromedeiros.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img src="https://raw.githubusercontent.com/PEDR0-MEDEIR0S/PEDR0-MEDEIR0S/output/snake.svg" alt="Snake animation" />
