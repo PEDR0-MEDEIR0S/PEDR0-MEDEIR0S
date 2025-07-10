@@ -13,8 +13,8 @@
 ## Sobre Mim
 
 - **Formação**: Graduado em Administração
-- **Experiência**: 8+ anos no mercado, com 3+ anos em gerenciamento de projetos de software
-- **Áreas de Atuação**: Coordenação de equipes, uso de metodologias ágeis, desenvolvimento web, análise de dados e automação
+- **Experiência**: 9+ anos no mercado, com 5+ anos em gerenciamento de projetos e desenvolvimento de automações e IA
+- **Áreas de Atuação**: Coordenação de equipes, desenvolvimento Python, análise de dados,  ML e automação
 
 ## Interesses
 
