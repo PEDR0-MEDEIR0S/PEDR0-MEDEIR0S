@@ -14,12 +14,12 @@
 
 - **Formação**: Graduado em Administração
 - **Experiência**: 9+ anos no mercado, com 5+ anos em gerenciamento de projetos e desenvolvimento de automações e IA
-- **Áreas de Atuação**: Coordenação de equipes, desenvolvimento Python, análise de dados,  ML e automação
+- **Áreas de Atuação**: Coordenação de equipes, desenvolvimento Python, análise de dados,  ML, automação e AWS
 
 ## Interesses
 
-- **Tecnologias**: Python, SQL, inteligência artificial, JavaScript, Html e CSS
-- **Estudos Atuais**: MBA em Data Science e Analytics e Python
+- **Tecnologias**: Python, SQL, inteligência artificial, ML e IA
+- **Estudos Atuais**: MBA em Data Science e Analytics, Python e AWS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
