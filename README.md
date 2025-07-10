@@ -38,4 +38,18 @@
   
 </div>
 
-<img src="https://raw.githubusercontent.com/PEDR0-MEDEIR0S/PEDR0-MEDEIR0S/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source 
+    srcset="https://raw.githubusercontent.com/PEDR0-MEDEIR0S/PEDR0-MEDEIR0S/output/snake.svg" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://raw.githubusercontent.com/PEDR0-MEDEIR0S/PEDR0-MEDEIR0S/output/snake-light.svg" 
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/PEDR0-MEDEIR0S/PEDR0-MEDEIR0S/output/snake.svg" 
+    alt="Snake animation" 
+  />
+</picture>
+
