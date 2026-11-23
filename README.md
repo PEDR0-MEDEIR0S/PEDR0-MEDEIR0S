@@ -1,13 +1,15 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true&theme=radical&hide=contribs,prs"
+    srcset="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true&theme=radical&hide=contribs,prs&cache_seconds=14400&v=2"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true&theme=radical&cache_seconds=14400&v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PEDR0-MEDEIR0S&show_icons=true&theme=radical&v=2"
+  />
 </picture>
 
 ## Sobre Mim
